@@ -7,5 +7,4 @@ Ipsum, y al revisar las citas de la palabra en la literatura clásica, descubri�
  indudable. Lorem Ipsum proviene de las secciones 1.10.32 y 1.10.33 de "de Finibus Bonorum 
  et Malorum" (Los extremos del bien y del mal) de Cicerón, escrito en el 45 a. Este libro 
  es un tratado de teoría de la ética, muy popular durante el Renacimiento. La primera línea 
- de Lorem Ipsum, "Lorem ipsum dolor sit amet..", proviene de una línea en la sección 1.10.
- 32.
+ de Lorem Ipsum, "Lorem ipsum dolor sit amet..", proviene de una línea en la sección 1.10
